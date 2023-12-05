@@ -11,8 +11,9 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+# Azure Identity
+
+This package is an incomplete port of Microsoft's [@azure/identity](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/identity/identity/README.md) package. The goal is to have a sufficiently complete implementation that enables Dart-based backends deployed as Azure Web Apps.
 
 ## Features
 
